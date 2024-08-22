@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hope that we will get the things we wanted 🤜🤛
 
 <!--
 **HorigolRGHS/HorigolRGHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img style="text-align: center" alt="Me every time learning new things and encountering bugs" src="https://c.tenor.com/ua2pghKGg4YAAAAC/tenor.gif" />
 
+<div style="text-align: center;">
+  <img alt="Me every time learning new things and encountering bugs" src="https://c.tenor.com/ua2pghKGg4YAAAAC/tenor.gif" />
+</div>
