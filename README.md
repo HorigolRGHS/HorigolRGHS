@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" alt="Me every time learning new things and encountering bugs" src="https://c.tenor.com/ua2pghKGg4YAAAAC/tenor.gif" />
+<img style="text-align: center" alt="Me every time learning new things and encountering bugs" src="https://c.tenor.com/ua2pghKGg4YAAAAC/tenor.gif" />
 
