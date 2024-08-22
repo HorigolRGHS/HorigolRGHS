@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align: center;">
-  <img alt="Me every time learning new things and encountering bugs" src="https://c.tenor.com/ua2pghKGg4YAAAAC/tenor.gif" />
+<div>
+  <img width="100%" alt="Me every time learning new things and encountering bugs" src="https://c.tenor.com/ua2pghKGg4YAAAAC/tenor.gif" />
 </div>
