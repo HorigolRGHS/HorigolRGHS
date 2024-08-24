@@ -1,7 +1,11 @@
 ## Hope that we will get the things we wanted 🤜🤛
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Spectral&size=30&pause=1000&color=F5F5DC&center=true&vCenter=true&width=435&lines=R.G.H.S;Have+a+nice+day!;%22Tomorrow+will+be+better%22" alt="Typing SVG" /></a>
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com? 
+    font=Spectral&size=50&pause=1000&color=F5F5DC&center=true&vCenter=true&width=700&height=70&lines=R.G.H.S;Have+a+nice+day!;%22Tomorrow+will+be+better%22" alt="Typing SVG" />
+  </a>
+</div>
 <!--
 **HorigolRGHS/HorigolRGHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
