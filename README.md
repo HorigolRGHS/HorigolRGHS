@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <div>
   <img width="100%" alt="Me every time learning new things and encountering bugs" src="https://c.tenor.com/ua2pghKGg4YAAAAC/tenor.gif" />
 </div>
+
+![snake gif](https://github.com/HorigolRGHS/HorigolRGHS/blob/output/github-contribution-grid-snake.gif)
