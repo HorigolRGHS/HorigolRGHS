@@ -31,4 +31,4 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HorigolRGHS/HorigolRGHS/27036164f29bead6a5518004189e8dfd046c3cda/github-contribution-grid-snake-dark.svg">
 </picture>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
