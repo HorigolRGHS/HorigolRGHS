@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HorigolRGHS/HorigolRGHS/27036164f29bead6a5518004189e8dfd046c3cda/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HorigolRGHS/HorigolRGHS/27036164f29bead6a5518004189e8dfd046c3cda/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HorigolRGHS/HorigolRGHS/27036164f29bead6a5518004189e8dfd046c3cda/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HorigolRGHS/HorigolRGHS/b0fc6b2dddad79fa9845c88c5bd4bc67b41db638/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HorigolRGHS/HorigolRGHS/b0fc6b2dddad79fa9845c88c5bd4bc67b41db638/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HorigolRGHS/HorigolRGHS/b0fc6b2dddad79fa9845c88c5bd4bc67b41db638/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
