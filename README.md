@@ -14,7 +14,7 @@
 <!-- Tech Stack -->
 <h2 align="center">🛠️ My Tech Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,js,ts,html,css,react,nodejs,git,docker,mysql,mongodb,unity&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,html,css,react,nextjs,nodejs,nestjs,spring,dotnet,androidstudio,unity,firebase,mysql,postgres,oracle,sqlserver,git,docker,visualstudio,vscode,idea,postman,figma,tailwind,redis,npm,pnpm,yarn&theme=dark&perline=12" alt="My Skills" />
 </div>
 
 <br/>
