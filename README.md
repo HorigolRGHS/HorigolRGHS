@@ -14,12 +14,7 @@
 <!-- Tech Stack -->
 <h2 align="center">🛠️ My Tech Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,html,css,react,nextjs,nodejs,nestjs,spring,dotnet,androidstudio,unity,firebase,mysql,postgres,git,docker,visualstudio,vscode,idea,postman,figma,tailwind,redis,npm,pnpm,yarn&theme=dark&perline=12" alt="My Skills" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,html,css,react,nextjs,nodejs,nestjs,spring,dotnet,androidstudio,unity,firebase,mysql,postgres,oracle,sqlserver,git,docker,visualstudio,vscode,idea,postman,figma,tailwind,redis,npm,pnpm,yarn&theme=dark&perline=12" alt="My Skills" />
 </div>
 
 <br/>
