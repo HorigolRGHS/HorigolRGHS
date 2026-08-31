@@ -13,18 +13,35 @@
 
 <!-- Tech Stack -->
 <h2 align="center">🛠️ My Tech Stack</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,html,css,react,nextjs,nodejs,nestjs,spring,dotnet,androidstudio,unity,firebase,mysql,postgres,oracle,sqlserver,git,docker,visualstudio,vscode,idea,postman,figma,tailwind,redis,npm,pnpm,yarn&theme=dark&perline=12" alt="My Skills" />
-</div>
-
 <br/>
 
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HorigolRGHS&theme=radical&no-frame=false&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,html,css&theme=dark" alt="Languages" />
+  <br/><br/>
+  
+  <h4>Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend" />
+  <br/><br/>
+  
+  <h4>Backend & Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet&theme=dark" alt="Backend" />
+  <br/><br/>
+  
+  <h4>Database & Cloud</h4>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,sqlserver,redis,firebase&theme=dark" alt="Databases" />
+  <br/><br/>
+  
+  <h4>Mobile & Game</h4>
+  <img src="https://skillicons.dev/icons?i=androidstudio,unity&theme=dark" alt="Mobile and Game" />
+  <br/><br/>
+  
+  <h4>Tools & DevOps</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,npm,pnpm,yarn,postman,figma&theme=dark" alt="Tools" />
+  <br/><br/>
+  
+  <h4>IDEs & Editors</h4>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea&theme=dark" alt="IDEs" />
 </div>
 
 <br/>
@@ -32,12 +49,13 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats & Streak</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HorigolRGHS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HorigolRGHS&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorigolRGHS&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top Languages" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commits" />
 </div>
 
 <br/>
