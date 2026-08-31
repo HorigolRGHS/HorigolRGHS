@@ -29,7 +29,11 @@
   <br/><br/>
   
   <h4>Database & Cloud</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,sqlserver,redis,firebase&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase&theme=dark" alt="Databases" />
+  <br/><br/>
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure Storage" />
   <br/><br/>
   
   <h4>Mobile & Game</h4>
